@@ -1,2 +1,2 @@
-FROM $danielaz.jfrog.io/$devops-101-workshop
+FROM $danielaz.jfrog.io/$default-docker-virtual
 /ubuntu:16.04
