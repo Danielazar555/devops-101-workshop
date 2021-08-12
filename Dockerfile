@@ -1,1 +1,1 @@
-FROM $danielaz.jfrog.jfrog.io/docker/ubuntu:16.04
+FROM $danielaz.jfrog.io/docker/ubuntu:16.04
