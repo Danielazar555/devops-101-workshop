@@ -1,1 +1,2 @@
-FROM $danielaz.jfrog.io/${VIRTUAL_REPO_NAME}/ubuntu:16.04
+FROM $danielaz.jfrog.io/$devops-101-workshop
+/ubuntu:16.04
