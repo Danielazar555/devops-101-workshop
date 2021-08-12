@@ -1,2 +1,1 @@
-FROM $danielaz.jfrog.io/$default-docker-virtual
-/my-docker-image:latest
+FROM $danielaz.jfrog.jfrog.io/$default-docker-virtual/ubuntu:16.04
